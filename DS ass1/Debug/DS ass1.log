@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\hmed\documents\visual studio 2015\projects\ds ass1\ds ass1\node.h(10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hmed\documents\visual studio 2015\projects\ds ass1\ds ass1\node.h(11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hmed\documents\visual studio 2015\projects\ds ass1\ds ass1\node.h(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hmed\documents\visual studio 2015\projects\ds ass1\ds ass1\polynomial.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hmed\documents\visual studio 2015\projects\ds ass1\ds ass1\polynomial.h(19): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  DS ass1.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\DS ass1\Debug\DS ass1.exe
+  DS ass1.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\DS ass1\Debug\DS ass1.pdb (Full PDB)

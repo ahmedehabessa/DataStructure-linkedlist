@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: DS ass1, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>  DS ass1.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\DS ass1\Debug\DS ass1.exe
+1>  DS ass1.vcxproj -> C:\Users\hmed\documents\visual studio 2015\Projects\DS ass1\Debug\DS ass1.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
